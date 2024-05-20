@@ -1,7 +1,8 @@
-# -*- coding: utf-8 -*-
-"""CIS 3120, Project #1.ipynb
 
-#imprting libraries
+"CIS 3120, Project #1"
+
+#importing libraries
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
